@@ -2,8 +2,12 @@
 
 Feel free to assign me issues, pull requests and/or reviews etc.
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zedritsch">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zedritsch&layout=compact&langs_count=8&card_width=320">
+<a href="https://github.com/Zedritsch">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zedritsch&hide=contribs&card_width=320&show_icons=true&include_all_commits=true&show=reviews">
+</a>
+<a href="https://github.com/Zedritsch">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zedritsch&layout=compact&langs_count=8&card_width=320">
+</a>
 
 <!--
 **Zedritsch/Zedritsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
