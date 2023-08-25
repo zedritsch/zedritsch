@@ -3,8 +3,8 @@
 Feel free to assign me issues, pull requests and/or reviews etc.
 
 <div>
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Zedritsch&card_width=475&line_height=24&show_icons=true">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Zedritsch&card_width=415&layout=compact&langs_count=8">
+  <img height=165 src="https://github-readme-stats.vercel.app/api?username=Zedritsch&card_width=459&line_height=24&show_icons=true">
+  <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs?username=Zedritsch&card_width=400&layout=compact&langs_count=8">
 </div>
 
 <!--
