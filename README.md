@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is `@Zedritsch` and here are some things about me:
+My name is `Zedritsch` and here are some things about me:
 
 * 🔭 I’m currently working on small hobbyist projects
 * 🌱 Also, I’m currently learning the `Zig` and `Nim` programming languages
