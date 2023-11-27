@@ -3,7 +3,7 @@
 My name is `Zedritsch` and here are some things about me:
 
 * 🔭 I’m currently working on small hobbyist projects
-* 🌱 Also, I’m currently learning the `Zig` and `Nim` programming languages
+* 🌱 Also, I’m learning the `Lua` programming language
 * 💬 You can always ask me for help (e.g. by assigning me an `issue`, etc.)
 
 <a href="https://github-readme-stats.vercel.app/api?username=Zedritsch&show_icons=true#gh-dark-mode-only">
