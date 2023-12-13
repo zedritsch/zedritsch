@@ -3,7 +3,7 @@
 My name is `Zedritsch` and here are some things about me:
 
 * 🔭 I’m currently working on small hobbyist projects
-* 🌱 Also, I’m making my own programming language [`CI-Script`](https://github.com/zedritsch/ci-script)
+* 🌱 Also, I’m developing my own programming language [`CI-Script`](https://github.com/zedritsch/ci-script)
 * 💬 You can always ask me for help (e.g. by assigning me an `issue`, etc.)
 
 <i>
