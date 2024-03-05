@@ -1,0 +1,15 @@
+{
+	"cSpell.checkOnlyEnabledFileTypes": false,
+	"cSpell.diagnosticLevel": "Hint",
+	"cSpell.language": "en,de-DE",
+	"cSpell.showCommandsInEditorContextMenu": false,
+	"cSpell.showStatus": false,
+	"editor.fontFamily": "Roboto Mono",
+	"editor.insertSpaces": false,
+	"material-icon-theme.hidesExplorerArrows": true,
+	"terminal.integrated.defaultProfile.windows": "Command Prompt",
+	"window.commandCenter": false,
+	"window.title": "${activeEditorShort}${separator}${appName}",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.layoutControl.enabled": false
+}
