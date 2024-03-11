@@ -1,4 +1,6 @@
 # Directories
+# .vscode
 bin
-lib
-src
+
+# Files Types
+*.exe
