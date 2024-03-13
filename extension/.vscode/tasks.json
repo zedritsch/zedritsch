@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Extension",
+			"type": "shell",
+			"group": "build",
+			"command": "vsce package"
+		}
+	]
+}

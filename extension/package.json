@@ -1,0 +1,27 @@
+{
+	"name": "extension",
+	"displayName": "Extension",
+	"description": "Template for a VS Code extension",
+	"publisher": "zedritsch",
+	"license": "MIT",
+	"version": "0.1.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zedritsch/zedritsch"
+	},
+	"engines": {
+		"vscode": "^1.75.0"
+	},
+	"categories": [
+
+	],
+	"keywords": [
+
+	],
+	"main": "src/extension.cjs",
+	"type": "module",
+	"activationEvents": [],
+	"contributes": {
+		
+	}
+}
