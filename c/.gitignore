@@ -1,6 +1,13 @@
 # Directories
-# .vscode
+.vscode/*
 bin
 
 # Files Types
 *.exe
+*.ilk
+*.pdb
+
+# Files
+!.vscode/c_cpp_properties.json
+!.vscode/launch.json
+!.vscode/tasks.json

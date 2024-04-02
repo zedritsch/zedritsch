@@ -1,0 +1,38 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Release C Project",
+			"type": "shell",
+			"command": "cl -std:c11 -O2 -Fe../program.exe -I../lib ../src/**",
+			"options": {
+				"cwd": "${workspaceFolder}/bin"
+			},
+			// Libraries
+			"args": [],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"presentation": {
+				"clear": true,
+				"showReuseMessage": false
+			}
+		},
+		{
+			"label": "build",
+			"type": "shell",
+			"command": "cl -std:c11 -Od -Zi -D_DEBUG -Fe../program.exe -I../lib ../src/**",
+			"options": {
+				"cwd": "${workspaceFolder}/bin"
+			},
+			// Libraries
+			"args": [],
+			"presentation": {
+				"clear": true,
+				"showReuseMessage": false,
+				"reveal": "silent"
+			}
+		}
+	]
+}
