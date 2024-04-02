@@ -2,10 +2,17 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-			"label": "Extension",
+			"label": "Release Extension",
 			"type": "shell",
-			"group": "build",
-			"command": "vsce package"
+			"command": "vsce package",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"presentation": {
+				"clear": true,
+				"showReuseMessage": false
+			}
 		}
 	]
 }
